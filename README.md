@@ -1,0 +1,2 @@
+Quill is a basically a teaching tool which is an adanced verion of the already existing Notepad.It is a desktop application designed to facilitate learning and education through the means technology.I have integrated a board feature which can be used to write,draw or display images with the likes of the user.
+This tool was developed for mere practise purpose to develop a project and understanding the concepts of OOPs,Java Swing and AWT.
